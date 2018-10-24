@@ -1,0 +1,3 @@
+Small example of using matplotlib to visualize the results of a Brian 2 simulation managed by pypet
+
+: source simulate_visualize.sh
