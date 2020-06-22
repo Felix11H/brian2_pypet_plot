@@ -1,6 +1,10 @@
-Small example of using matplotlib to visualize the results of a Brian 2 simulation managed by pypet
+Small example of using matplotlib to visualize the results of a Brian 2 simulation managed by pypet.
+
+Run the simulation and plotting via
 
 : source simulate_visualize.sh
+
+Generated figures like below are found ~plots/~  
 
 #+html: <p align="center"><img src="https://github.com/felix11h/brian2-pypet-plot/blob/master/plots/run_00000002.png" /></p>
 
